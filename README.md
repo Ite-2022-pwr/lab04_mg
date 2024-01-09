@@ -3,6 +3,6 @@
 - Autor: [Mateusz Głuchowski](https://github.com/hue1337)
 
 ## Laboratoria 4
-- Prowadzący zajęcia: Dr Kubik
+- Prowadzący zajęcia: Dr inż. Tomasz Kubik
 - Ocena za projekt: -
 - Czas poświęcony: Za dużo.
