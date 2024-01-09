@@ -1,7 +1,5 @@
 # lab04_mg
 
-<hr>
-
 - Autor: [Mateusz Głuchowski](https://github.com/hue1337)
 
 ## Laboratoria 4
